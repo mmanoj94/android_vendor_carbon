@@ -56,5 +56,8 @@ add_lunch_combo carbon_xt897-userdebug
 add_lunch_combo carbon_xt897c-userdebug
 add_lunch_combo carbon_xt907-userdebug
 add_lunch_combo carbon_xt925-userdebug
-add_lunch_combo carbon_xt926-userdebug
+add_lunch_combo carbon_tass-userdebug add_lunch_combo carbon_tass-userdebug
+add_lunch_combo carbon_tass-userdebug
+
+ 
 
